@@ -3,6 +3,6 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Telegram-Bot-based-Weather-monitoring-using-SPI-communication)
 ![Project](https://img.shields.io/badge/Project-SPI-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
 
-# Telegram-Bot-based-Weather-monitoring-using-SPI-communication
-<strong>Proyek Tunggal: Pemantauan cuaca berbasis Bot Telegram menggunakan komunikasi SPI</strong><br><br>
+# Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication
+<strong>Proyek Tunggal: Pemantauan cuaca berbasis Bot Whatsapp menggunakan komunikasi SPI</strong><br><br>
 Segera Hadir...
