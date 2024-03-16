@@ -75,18 +75,20 @@ Coming Soon...
 <table>
 <tr>
 <th width="420">Block Diagram</th>
-<th width="420">Pictorial Diagram</th>
+<th width="420">Infrastructure</th>
 </tr>
 <tr>
 <td><img src="" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
+<td><img src="" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
 <tr>
-<th width="840">Wiring</th>
+<th width="420">Pictorial Diagram</th>
+<th width="420">Wiring</th>
 </tr>
 <tr>
+<td><img src="" alt="Pictorial-Diagram"></td>
 <td><img src="" alt="Wiring"></td>
 </tr>
 </table>
