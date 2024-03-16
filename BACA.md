@@ -79,7 +79,7 @@ Segera Hadir...
 </tr>
 <tr>
 <td><img src="" alt="Block-Diagram"></td>
-<td><img src="" alt="Pictorial-Diagram"></td>
+<td><img src="" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
@@ -88,6 +88,7 @@ Segera Hadir...
 <th width="420">Pengkabelan</th>
 </tr>
 <tr>
+<td><img src="" alt="Pictorial-Diagram"></td>
 <td><img src="" alt="Wiring"></td>
 </tr>
 </table>
