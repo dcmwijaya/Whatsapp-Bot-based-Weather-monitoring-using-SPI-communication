@@ -75,7 +75,7 @@ Segera Hadir...
 <table>
 <tr>
 <th width="420">Diagram Blok</th>
-<th width="420">Diagram Ilustrasi</th>
+<th width="420">Infrastruktur</th>
 </tr>
 <tr>
 <td><img src="" alt="Block-Diagram"></td>
@@ -84,7 +84,8 @@ Segera Hadir...
 </table>
 <table>
 <tr>
-<th width="840">Pengkabelan</th>
+<th width="420">Diagram Ilustrasi</th>
+<th width="420">Pengkabelan</th>
 </tr>
 <tr>
 <td><img src="" alt="Wiring"></td>
