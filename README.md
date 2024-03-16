@@ -7,6 +7,8 @@
 <strong>Solo Project: Whatsapp Bot-based Weather monitoring using SPI communication</strong><br><br>
 Coming Soon...
 
+<br><br>
+
 ## Project Requirements
 | Part | Description |
 | --- | --- |
@@ -22,7 +24,7 @@ Coming Soon...
 | Programming Language | C/C++ |
 | Arduino Library | • SPI (default)<br>• ThingESP |
 | Sensor | • MH-RD: Raindrop Sensor Module (x1)<br>• LDR Sensor Module (x1)<br>• LM35: Air Temperature (x1) |
-| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard |
+| Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1) |
 
 <br><br>
 
