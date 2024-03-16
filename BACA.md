@@ -24,7 +24,7 @@ Segera Hadir...
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • SPI (default)<br>• ThingESP |
 | Sensor | • MH-RD: Modul Sensor Tetesan Air Hujan (x1)<br>• Modul Sensor LDR (x1)<br>• LM35: Suhu Udara (x1) |
-| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard |
+| Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1) |
 
 <br><br>
 
