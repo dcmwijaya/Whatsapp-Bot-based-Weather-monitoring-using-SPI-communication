@@ -19,7 +19,7 @@ Segera Hadir...
 | Driver | • ST-Link<br>• USB-Serial CH340 |
 | Dukungan Aplikasi | Bot Whatsapp |
 | Platform IoT | • Twilio<br>• ThingESP |
-| Protokol Komunikasi | • SPI<br>• HTTP |
+| Protokol Komunikasi | • Serial Peripheral Interface (SPI)<br>• Hypertext Transfer Protocol (HTTP) |
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • SPI (default)<br>• ThingESP |
