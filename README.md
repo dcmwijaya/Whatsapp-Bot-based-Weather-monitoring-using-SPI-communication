@@ -287,7 +287,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 <br><br>
 
 ## FTDI USB Setup
-<img width="840" src=""><br><br>
+<img width="840" src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/c5b0ab44-b999-4ed8-a254-1349347889d1"><br><br>
 
 <strong>Notes:</strong>
 
