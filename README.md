@@ -303,9 +303,42 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 <br><br>
 
-## Whatsapp Bot Setup
-Coming Soon...
+## Twilio Setup
+1. Getting started with Twilio :
+   
+   <table><tr><td width="810">
+      
+   • Please Sign Up first.
 
+   • Then please <a href="https://www.twilio.com/login">Log In</a> to access the service.
+
+   </td></tr></table><br>
+
+2. Fill in all the required fields.<br><br>
+
+3. Verify your phone number and email.<br><br>
+
+4. Access the WhatsApp sandbox in the Settings menu and send the code to the provided WhatsApp number.
+   
+<br><br>
+
+## ThingESP Setup
+1. Getting started with ThingESP :
+   
+   <table><tr><td width="810">
+      
+   • Please <a href="https://thingesp.siddhesh.me/#/signup">Sign Up</a> first.
+
+   • Then please <a href="https://thingesp.siddhesh.me/#/login">Login</a> to access the service.
+
+   </td></tr></table><br>
+
+2. Fill in all required fields.<br><br>
+
+3. Create a project in ThingESP by clicking on Project in the left tab and then selecting Add New Project.<br><br>
+
+4. After the project has been created, connect ThingESP with Twilio by entering the Twilio WhatsApp Endpoint URL into ThingESP.
+   
 <br><br>
 
 ## Get Started
