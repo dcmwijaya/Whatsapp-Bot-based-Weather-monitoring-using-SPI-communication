@@ -303,9 +303,46 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 <br><br>
 
-## Pengaturan Bot Whatsapp
-Segera Hadir...
+## Pengaturan Twilio
+1. Memulai Twilio :
+   
+   <table><tr><td width="810">
+      
+   • Buka url berikut ini: <a href="https://www.twilio.com/">Klik Disini</a>.
 
+   • Klik ``` Log in ``` untuk mengakses layanan.
+
+   • Jika anda belum memiliki akun, klik ``` Sign up ```.
+
+   </td></tr></table><br>
+
+2. Isi semua kolom yang diperlukan.<br><br>
+
+3. Verifikasi ``` nomor telepon ``` dan ``` email ``` anda.<br><br>
+
+4. Akses ``` WhatsApp sandbox ``` di menu ``` Settings ``` dan kirimkan kode ke nomor WhatsApp yang disediakan.
+   
+<br><br>
+
+## Pengaturan ThingESP
+1. Memulai ThingESP :
+   
+   <table><tr><td width="810">
+
+   • Buka url berikut ini: <a href="https://thingesp.siddhesh.me/#/">Klik Disini</a>.
+
+   • Klik ``` Login ``` untuk mengakses layanan.
+
+   • Jika anda belum memiliki akun, klik ``` Create Account ```.
+
+   </td></tr></table><br>
+
+2. Isi semua kolom yang diperlukan.<br><br>
+
+3. Klik ``` Project ``` di bagian sidebar -> lalu pilih ``` Add New Project ```.<br><br>
+
+4. Setelah proyek dibuat, hubungkan ThingESP dengan Twilio dengan memasukkan URL Twilio WhatsApp Endpoint ke dalam ThingESP.
+   
 <br><br>
 
 ## Memulai
