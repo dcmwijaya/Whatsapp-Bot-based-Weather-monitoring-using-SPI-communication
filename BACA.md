@@ -23,7 +23,7 @@ Segera Hadir...
 | Arsitektur IoT | 3 Lapisan |
 | Bahasa Pemrograman | C/C++ |
 | Pustaka Arduino | • SPI (default)<br>• ThingESP |
-| Sensor | • MH-RD: Modul Sensor Tetesan Air Hujan (x1)<br>• Modul Sensor LDR (x1)<br>• LM35: Suhu Udara (x1) |
+| Sensor | • MH-RD: Sensor Tetesan Air Hujan (x1)<br>• LDR: Sensor Intensitas Cahaya (x1)<br>• LM35: Sensor Suhu Udara (x1) |
 | Komponen Lainnya | • Kabel Mikro USB - USB tipe A (x1)<br>• Kabel jumper (1 set)<br>• Breadboard (x1) |
 
 <br><br>
