@@ -320,7 +320,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 3. Verify your ``` phone number ``` and ``` email ```.<br><br>
 
-4. Access the ``` WhatsApp sandbox ``` in the ``` Settings ``` menu and send the code to the provided WhatsApp number.
+4. Access the ``` WhatsApp sandbox ``` in the ``` Settings ``` menu and ``` send the code ``` to the ``` provided WhatsApp number ```.
    
 <br><br>
 
