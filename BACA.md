@@ -78,8 +78,8 @@ Segera Hadir...
 <th width="420">Infrastruktur</th>
 </tr>
 <tr>
-<td><img src="" alt="Block-Diagram"></td>
-<td><img src="" alt="Infrastructure"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/212dc946-700a-46a5-ac47-4d0f39a3c07c" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/3ae266e5-f5b1-4e0c-99f7-453607e06071" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
