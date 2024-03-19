@@ -23,7 +23,7 @@ Coming Soon...
 | IoT Architecture | 3 Layer |
 | Programming Language | C/C++ |
 | Arduino Library | • SPI (default)<br>• ThingESP |
-| Sensor | • MH-RD: Raindrop (x1)<br>• LDR: Luminous Intensity (x1)<br>• LM35: Air Temperature (x1) |
+| Sensor | • MH-RD: Raindrop Sensor (x1)<br>• LDR: Luminous Intensity Sensor (x1)<br>• LM35: Air Temperature Sensor (x1) |
 | Other Components | • Micro USB cable - USB type A (x1)<br>• Jumper cable (1 set)<br>• Breadboard (x1) |
 
 <br><br>
