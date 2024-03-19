@@ -16,7 +16,7 @@ Segera Hadir...
 | Editor Kode | Arduino IDE |
 | Alat Pemrogram | ST-Link/V2 |
 | Alat Komunikasi Serial | USB FTDI |
-| Driver | • ST-Link<br>• USB-Serial CH340 |
+| Driver | • ST-Link<br>• USB-Serial CDM<br>• USB-Serial CH340 |
 | Dukungan Aplikasi | Bot Whatsapp |
 | Platform IoT | • Twilio<br>• ThingESP |
 | Protokol Komunikasi | • Serial Peripheral Interface (SPI)<br>• Hypertext Transfer Protocol (HTTP) |
@@ -39,7 +39,17 @@ Segera Hadir...
 
    </td></tr></table><br>
 
-2. ST-Link Driver
+2. USB-Serial CDM
+
+   <table><tr><td width="810">
+
+   ```
+   https://bit.ly/CDM_Driver
+   ```
+
+   </td></tr></table><br>
+
+3. ST-Link Driver
 
    <table><tr><td width="810">
 
@@ -48,8 +58,8 @@ Segera Hadir...
    ```
 
    </td></tr></table><br>
-
-3. STM32CubeProgrammer
+   
+4. STM32CubeProgrammer
 
    <table><tr><td width="810">
    
@@ -59,7 +69,7 @@ Segera Hadir...
 
    </td></tr></table><br>
    
-4. USB-Serial CH340
+5. USB-Serial CH340
 
    <table><tr><td width="810">
    
