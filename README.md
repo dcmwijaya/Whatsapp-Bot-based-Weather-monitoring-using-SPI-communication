@@ -88,7 +88,7 @@ Coming Soon...
 <th width="420">Infrastructure</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/212dc946-700a-46a5-ac47-4d0f39a3c07c" alt="Block-Diagram"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/5c7568d3-b593-48d5-8a19-43ef71874839"></td>
 <td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/7d02d585-384f-42f7-b954-2a1c55ddae12" alt="Infrastructure"></td>
 </tr>
 </table>
