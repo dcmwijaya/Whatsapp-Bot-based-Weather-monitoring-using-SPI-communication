@@ -341,7 +341,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 3. Klik ``` Project ``` di bagian sidebar -> lalu pilih ``` Add New Project ```.<br><br>
 
-4. Setelah proyek dibuat, hubungkan ThingESP dengan Twilio dengan memasukkan URL Twilio WhatsApp Endpoint ke dalam ThingESP.
+4. Setelah proyek dibuat, masukkan ``` URL Twilio WhatsApp Endpoint ``` ke dalam ``` ThingESP ``` agar dapat terhubung.
    
 <br><br>
 
