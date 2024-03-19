@@ -320,7 +320,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 3. Verify your ``` phone number ``` and ``` email ```.<br><br>
 
-4. Access the ``` WhatsApp sandbox ``` in the ``` Settings menu ``` and send the code to the provided WhatsApp number.
+4. Access the ``` WhatsApp sandbox ``` in the ``` Settings ``` menu and send the code to the provided WhatsApp number.
    
 <br><br>
 
@@ -339,7 +339,7 @@ Basically, a device can be communicated with other devices either wirelessly or 
 
 2. Fill in all required fields.<br><br>
 
-3. Click ``` Project ``` in the sidebar -> select ``` Add New Project ```.<br><br>
+3. Click ``` Project ``` in the sidebar -> then select ``` Add New Project ```.<br><br>
 
 4. After the project has been created, connect ThingESP with Twilio by entering the Twilio WhatsApp Endpoint URL into ThingESP.
    
