@@ -20,7 +20,7 @@ Coming Soon...
 | Application Support | Whatsapp Bot |
 | IoT Platform | • Twilio<br>• ThingESP |
 | Communications Protocol | • Serial Peripheral Interface (SPI)<br>• Hypertext Transfer Protocol (HTTP) |
-| IoT Architecture | 3 Layer |
+| IoT Architecture | 4 Layer |
 | Programming Language | C/C++ |
 | Arduino Library | • SPI (default)<br>• ThingESP |
 | Sensor | • MH-RD: Raindrop Sensor (x1)<br>• LDR: Luminous Intensity Sensor (x1)<br>• LM35: Air Temperature Sensor (x1) |
@@ -79,7 +79,7 @@ Coming Soon...
 </tr>
 <tr>
 <td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/212dc946-700a-46a5-ac47-4d0f39a3c07c" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/3ae266e5-f5b1-4e0c-99f7-453607e06071" alt="Infrastructure"></td>
+<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/7d02d585-384f-42f7-b954-2a1c55ddae12" alt="Infrastructure"></td>
 </tr>
 </table>
 <table>
