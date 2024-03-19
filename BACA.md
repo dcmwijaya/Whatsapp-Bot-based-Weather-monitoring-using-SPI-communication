@@ -320,7 +320,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 
 3. Verifikasi ``` nomor telepon ``` dan ``` email ``` anda.<br><br>
 
-4. Akses ``` WhatsApp sandbox ``` di menu ``` Settings ``` dan kirimkan kode ke nomor WhatsApp yang disediakan.
+4. Akses ``` WhatsApp sandbox ``` di menu ``` Settings ``` dan ``` kirimkan kode ``` ke ``` nomor WhatsApp yang disediakan ```.
    
 <br><br>
 
