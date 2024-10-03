@@ -1,7 +1,7 @@
 [![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?style=flat)](https://github.com/ellerbrock/open-source-badges/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?logo=github&color=%23F7DF1E)](https://opensource.org/licenses/MIT)
-![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Telegram-Bot-based-Weather-monitoring-using-SPI-communication)
-![Project](https://img.shields.io/badge/Project-SPI-light.svg?style=flat&logo=arduino&logoColor=white&color=%23F7DF1E)
+![GitHub last commit](https://img.shields.io/github/last-commit/devancakra/Telegram-Bot-based-Weather-monitoring-using-SPI-communication?logo=Codeforces&logoColor=white&color=%23F7DF1E)
+![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication
 <strong>Proyek Tunggal: Pemantauan cuaca berbasis Bot Whatsapp menggunakan komunikasi SPI</strong><br><br>
@@ -88,8 +88,8 @@ Segera Hadir...
 <th width="420">Infrastruktur</th>
 </tr>
 <tr>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/5c7568d3-b593-48d5-8a19-43ef71874839" alt="Block-Diagram"></td>
-<td><img src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/7d02d585-384f-42f7-b954-2a1c55ddae12" alt="Infrastructure"></td>
+<td><img src="Assets/Documentation/Diagram/Block Diagram.jpg" alt="block-diagram"></td>
+<td><img src="Assets/Documentation/Diagram/Infrastructure.jpg" alt="infrastructure"></td>
 </tr>
 </table>
 <table>
@@ -98,8 +98,8 @@ Segera Hadir...
 <th width="420">Pengkabelan</th>
 </tr>
 <tr>
-<td><img src="" alt="Pictorial-Diagram"></td>
-<td><img src="" alt="Wiring"></td>
+<td><img src="Assets/Documentation/Diagram/Pictorial Diagram.jpg" alt="pictorial-diagram"></td>
+<td><img src="Assets/Documentation/Table/Device Wiring.jpg" alt="wiring"></td>
 </tr>
 </table>
 
@@ -278,7 +278,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Pengaturan ST-Link/V2
-<img width="840" src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/54bf34f8-62c0-482e-8e91-0ab1fe603b76"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/ST-Link Configuration.jpg" alt="stlink-configuration"><br><br>
 
 <strong>Catatan :</strong>
 
@@ -297,7 +297,7 @@ Pada dasarnya, suatu perangkat itu dapat dikomunikasikan dengan perangkat lain b
 <br><br>
 
 ## Pengaturan USB FTDI
-<img width="840" src="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/assets/54527592/c5b0ab44-b999-4ed8-a254-1349347889d1"><br><br>
+<img width="840" src="Assets/Documentation/Experiment/FTDI Configuration.jpg" alt="ftdi-configuration"><br><br>
 
 <strong>Catatan :</strong>
 
@@ -376,10 +376,10 @@ Via Whatsapp: <a href="https://github.com/devancakra/Whatsapp-Bot-based-Weather-
 ## Sorotan
 <table>
 <tr>
-<th width="840">Perangkat Keras</th>
+<th width="840">Perangkat</th>
 </tr>
 <tr>
-<td><img src="" alt="hardware"></td>
+<td><img src="Assets/Documentation/Experiment/Device.jpg" alt="device"></td>
 </tr>
 </table>
 <table>
@@ -387,15 +387,15 @@ Via Whatsapp: <a href="https://github.com/devancakra/Whatsapp-Bot-based-Weather-
 <th width="840" colspan="2">Bot Whatsapp</th>
 </tr>
 <tr>
-<td width="420"><img src="" alt="wa_bot1"></td>
-<td width="420"><img src="" alt="wa_bot2"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="wa-bot1"></td>
+<td width="420"><img src="Assets/Documentation/Experiment/Device.jpg" alt="wa-bot2"></td>
 </tr>
 </table>
 
 <br><br>
 
 ## Pengujian Komponen
-Anda dapat mengunduh berkas uji komponen melalui tautan berikut: <a href="https://github.com/devancakra/Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication/">Klik Disini</a>
+Anda dapat mengunduh berkas uji komponen melalui tautan berikut: <a href="Assets/Component Testing/Testing.txt">Klik Disini</a>
 
 <br><br>
 
@@ -405,7 +405,7 @@ Jika karya ini bermanfaat bagi anda, maka dukunglah karya ini sebagai bentuk apr
 <br><br>
 
 ## Penafian
-Aplikasi ini dibuat dengan menyertakan sumber-sumber dari pihak ketiga. Pihak ketiga di sini adalah penyedia layanan, yang layanannya berupa pustaka, kerangka kerja, dan lain-lain. Saya ucapkan terima kasih banyak atas layanannya. Telah terbukti sangat membantu dan dapat diimplementasikan.
+Aplikasi ini merupakan hasil karya saya sendiri dan bukan merupakan hasil plagiat dari penelitian atau karya orang lain, kecuali yang berkaitan dengan layanan pihak ketiga yang meliputi: pustaka, kerangka kerja, dan lain sebagainya.
 
 <br><br>
 
