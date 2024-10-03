@@ -4,7 +4,6 @@
 ![Type](https://img.shields.io/badge/Type-Personal%20Experiment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
 # Whatsapp-Bot-based-Weather-monitoring-using-SPI-communication
-<strong>Solo Project: Whatsapp Bot-based Weather monitoring using SPI communication</strong><br><br>
 Coming Soon...
 
 <br><br>
